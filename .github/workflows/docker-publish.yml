@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: edvazquez/proxmox-pxe-builder
+  IMAGE_NAME: eduardovazquez3/proxmox-pxe-builder
 
 jobs:
   build-and-push:
